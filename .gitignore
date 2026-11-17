@@ -1,0 +1,8 @@
+/bin/
+/dist/
+/data/
+/.env
+*.test
+coverage.out
+/.venv/
+__pycache__/

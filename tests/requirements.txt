@@ -1,0 +1,2 @@
+# Browser checks only; the delivered SSH client has no third-party dependencies.
+playwright==1.65.2
